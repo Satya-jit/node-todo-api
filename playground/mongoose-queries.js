@@ -8,8 +8,7 @@ const {User} = require('./../server/models/user');
 // if (!ObjectID.isValid(id)) {
 //   console.log('ID not Valid');
 // }
-//
-//
+
 // Todo.find({
 //
 //   _id: id
@@ -18,7 +17,7 @@ const {User} = require('./../server/models/user');
 // });
 //
 // Todo.findOne({
-//
+
 //   _id: id
 // }).then((todo) => {
 //   console.log('Todo', todo);
